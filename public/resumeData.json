@@ -1,0 +1,129 @@
+{
+  "main": {
+    "name": "Resqi Ageng Rahmatullah",
+    "occupation": "Junior Software Engineer",
+    "description": "A self taught with 2 years full-straight learning how to code",
+    "image": "profilepic.jpg",
+    "bio": "Hello 👋 My name is Resqi Ageng Rahmatullah. I'm a Junior Software Engineer who specialized in back-end, but also have an ability in front-end side of things. So much passionate about modern Web and Mobile Ecosystem using JavaScript/Dart/Kotlin while taking consideration into the latest tech stack. Ambitious Software Engineer brings problem-solving approach and powerful technology skills to web development process. Innate ability to communicate with, to ascertain web development needs and design interface that accommodates specifications. Proficient Software Development  adept at utilizing Front-end & Back-end to contribute to team projects and meet corporate objectives. Driven and proactive with proven history of going above and beyond to contribute to team objectives. Consistently acknowledged for contributing to process optimization by automating tasks for increased efficiency.",
+    "contactmessage": "Get in touch with or reach me out on:",
+    "email": "resqiagengr@gmail.com",
+    "phone": "+62 881036083715",
+    "address": {
+      "street": "Sonocandi 03/02, Candinegoro",
+      "city": "Indonesia",
+      "state": "East Java",
+      "zip": "61261"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "https://drive.google.com/file/d/1NBfP9myapRHK3XtBz0HCUW1nqEyF9cL7/view?usp=sharing",
+    "social": [{
+        "name": "whatsapp",
+        "url": "https://wa.link/36r1qo",
+        "className": "fab fa-whatsapp"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/resqiar",
+        "className": "fab fa-telegram"
+      },
+      {
+        "name": "linkedin",
+        "url": "www.linkedin.com/in/resqi-rahmatullah-8692911a5",
+        "className": "fab fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/resqiar_",
+        "className": "fab fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/resqiar",
+        "className": "fab fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Hammer and Wrench",
+    "education": [{
+        "school": "High School of Muhammadiyah 2nd Sidoarjo",
+        "degree": "High School, Language Literature",
+        "graduated": "May 2020",
+        "description": ""
+      },
+      {
+        "school": "Dicoding Indonesia",
+        "degree": "Menjadi Developer Android Expert",
+        "graduated": "February 2020",
+        "description": ""
+      }
+    ],
+    "work": [{
+      "company": "Kriyaterra",
+      "title": "Back-end Engineer",
+      "years": "May 2020 - September 2020",
+      "description": "Build but not limited to; Back-end code (Laravel) in order to build a big project on a new startup. Also build Front-end using javascript."
+    }],
+    "skills": [{
+        "name": "NodeJs",
+        "level": "90%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "Firebase",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "70%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      },
+      {
+        "name": "Flutter",
+        "level": "80%"
+      },
+      {
+        "name": "Android Development",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [{
+        "title": "Cube Realtime Video Sharing",
+        "category": "",
+        "image": "zoom.png",
+        "url": "https://github.com/resqiar/cube-video-sharing"
+      },
+      {
+        "title": "Uber Clone (Rider App)",
+        "category": "",
+        "image": "icon_light.png",
+        "url": "https://github.com/resqiar/letsjek-rider"
+      },
+
+      {
+        "title": "Uber Clone (Driver App)",
+        "category": "",
+        "image": "icon_light.png",
+        "url": "https://github.com/resqiar/letsjek-driver"
+      },
+      {
+        "title": "WhatsApp Clone",
+        "category": "",
+        "image": "wa.png",
+        "url": "https://github.com/resqiar/cube-whatsapp-clone"
+      }
+    ]
+  }
+}
